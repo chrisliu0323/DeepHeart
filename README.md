@@ -1,6 +1,7 @@
 # DeepHeart
 
 This repository contains source code for two tasks in the project DeepHeart--data processing and modelling.
+The pdf file `project file` gives you a general idea of what this project includes.
 
 
 ## Data processing
